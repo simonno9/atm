@@ -1,0 +1,40 @@
+﻿<Window x:Class="geldautomaat_admin.windows.CreateUser"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:geldautomaat_admin.windows"
+        mc:Ignorable="d"
+        Title="CreateUser" Height="650" Width="1000">
+
+    <Grid Background="DarkSlateGray">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="34*"></RowDefinition>
+            <RowDefinition Height="34*"></RowDefinition>
+
+            <RowDefinition Height="34*"></RowDefinition>
+            <RowDefinition Height="34*"></RowDefinition>
+            <RowDefinition Height="34*"></RowDefinition>
+            <RowDefinition Height="34*"></RowDefinition>
+            <RowDefinition Height="34*"></RowDefinition>
+
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="142*"/>
+            <ColumnDefinition Width="141*"/>
+            <ColumnDefinition Width="235*"/>
+            <ColumnDefinition Width="141*"/>
+            <ColumnDefinition Width="141*"/>
+
+        </Grid.ColumnDefinitions>
+        <Rectangle  Grid.Column="1" Grid.ColumnSpan="3" Grid.Row="1" Grid.RowSpan="5" Fill="white" Stroke="Black" StrokeThickness="2"/>
+        <Label Content="create" Grid.Row="1" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="30" />
+
+        <TextBox Grid.Row="2" Name="tbVoornaam" Grid.Column="2" TextWrapping="Wrap" Text="voornaam" VerticalAlignment="Center" HorizontalAlignment="Center" Width="250" Height="45" FontSize="15" BorderThickness="2" Padding="8" />
+        <TextBox Grid.Row="3" Grid.Column="2" Name="tbAchternaam" TextWrapping="Wrap" Text="achternaam" VerticalAlignment="Center" HorizontalAlignment="Center" Width="250" Height="45" FontSize="15" BorderThickness="2" Padding="8" />
+        <Button Grid.Column="1" Name="btnBack"  Grid.Row="5" Content="back" FontSize="18" VerticalAlignment="Center" HorizontalAlignment="Center" Padding="15" Width="100"/>
+        <Button Grid.Column="3" Name="btnCreate"  Grid.Row="5" Content="create" FontSize="18" VerticalAlignment="Center" HorizontalAlignment="Center" Padding="15" Width="100"/>
+        <Label Content="" Name="lbResponse" Grid.Row="4" Grid.Column="2" VerticalAlignment="top" HorizontalAlignment="Center" FontSize="20"/>
+
+    </Grid>
+</Window>

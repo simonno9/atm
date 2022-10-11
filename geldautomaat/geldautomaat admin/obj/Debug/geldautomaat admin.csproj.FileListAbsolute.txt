@@ -1,0 +1,88 @@
+C:\Users\simon\source\repos\geldautomaat\geldautomaat admin\bin\Debug\geldautomaat admin.exe.config
+C:\Users\simon\source\repos\geldautomaat\geldautomaat admin\bin\Debug\geldautomaat admin.exe
+C:\Users\simon\source\repos\geldautomaat\geldautomaat admin\bin\Debug\geldautomaat admin.pdb
+C:\Users\simon\source\repos\geldautomaat\geldautomaat admin\obj\Debug\geldautomaat admin.csproj.AssemblyReference.cache
+C:\Users\simon\source\repos\geldautomaat\geldautomaat admin\obj\Debug\geldautomaat admin.csproj.SuggestedBindingRedirects.cache
+C:\Users\simon\source\repos\geldautomaat\geldautomaat admin\obj\Debug\MainWindow.g.cs
+C:\Users\simon\source\repos\geldautomaat\geldautomaat admin\obj\Debug\App.g.cs
+C:\Users\simon\source\repos\geldautomaat\geldautomaat admin\obj\Debug\geldautomaat admin_MarkupCompile.cache
+C:\Users\simon\source\repos\geldautomaat\geldautomaat admin\obj\Debug\geldautomaat admin_MarkupCompile.lref
+C:\Users\simon\source\repos\geldautomaat\geldautomaat admin\obj\Debug\MainWindow.baml
+C:\Users\simon\source\repos\geldautomaat\geldautomaat admin\obj\Debug\geldautomaat admin.g.resources
+C:\Users\simon\source\repos\geldautomaat\geldautomaat admin\obj\Debug\geldautomaat_admin.Properties.Resources.resources
+C:\Users\simon\source\repos\geldautomaat\geldautomaat admin\obj\Debug\geldautomaat admin.csproj.GenerateResource.cache
+C:\Users\simon\source\repos\geldautomaat\geldautomaat admin\obj\Debug\geldautomaat admin.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\geldautomaat\geldautomaat admin\obj\Debug\geldautomaat admin.exe
+C:\Users\simon\source\repos\geldautomaat\geldautomaat admin\obj\Debug\geldautomaat admin.pdb
+C:\Users\simon\source\repos\geldautomaat\geldautomaat admin\bin\Debug\geldautomaat.exe
+C:\Users\simon\source\repos\geldautomaat\geldautomaat admin\bin\Debug\MySqlConnector.dll
+C:\Users\simon\source\repos\geldautomaat\geldautomaat admin\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\simon\source\repos\geldautomaat\geldautomaat admin\bin\Debug\System.Memory.dll
+C:\Users\simon\source\repos\geldautomaat\geldautomaat admin\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\simon\source\repos\geldautomaat\geldautomaat admin\bin\Debug\System.Buffers.dll
+C:\Users\simon\source\repos\geldautomaat\geldautomaat admin\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\simon\source\repos\geldautomaat\geldautomaat admin\bin\Debug\geldautomaat.pdb
+C:\Users\simon\source\repos\geldautomaat\geldautomaat admin\bin\Debug\geldautomaat.exe.config
+C:\Users\simon\source\repos\geldautomaat\geldautomaat admin\bin\Debug\MySqlConnector.xml
+C:\Users\simon\source\repos\geldautomaat\geldautomaat admin\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\simon\source\repos\geldautomaat\geldautomaat admin\bin\Debug\System.Memory.xml
+C:\Users\simon\source\repos\geldautomaat\geldautomaat admin\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\simon\source\repos\geldautomaat\geldautomaat admin\bin\Debug\System.Buffers.xml
+C:\Users\simon\source\repos\geldautomaat\geldautomaat admin\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\simon\source\repos\geldautomaat\geldautomaat admin\obj\Debug\geldautomaat admin.csproj.CopyComplete
+C:\Users\simon\source\repos\geldautomaat\geldautomaat admin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\simon\source\repos\geldautomaat\geldautomaat admin\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\simon\source\repos\geldautomaat\geldautomaat admin\obj\Debug\windows\UserWindow.g.cs
+C:\Users\simon\source\repos\geldautomaat\geldautomaat admin\obj\Debug\windows\UserWindow.baml
+C:\Users\simon\source\repos\geldautomaat\geldautomaat admin\obj\Debug\windows\rkWindow.g.cs
+C:\Users\simon\source\repos\geldautomaat\geldautomaat admin\obj\Debug\windows\rkWindow.baml
+C:\Users\simon\source\repos\geldautomaat\geldautomaat admin\obj\Debug\windows\CreateUser.g.cs
+C:\Users\simon\source\repos\geldautomaat\geldautomaat admin\obj\Debug\windows\CreateUser.baml
+C:\Users\simon\source\repos\geldautomaat\geldautomaat admin\obj\Debug\windows\CreateRekening.g.cs
+C:\Users\simon\source\repos\geldautomaat\geldautomaat admin\obj\Debug\windows\CreateRekening.baml
+C:\Users\simon\source\repos\geldautomaat\geldautomaat admin\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\simon\source\repos\geldautomaat\geldautomaat admin\bin\Debug\BCrypt.Net-Next.xml
+C:\xampp\htdocs\dashboard\l9-10-geldautomaat-in-c-simonno9\geldautomaat\geldautomaat admin\bin\Debug\geldautomaat admin.exe.config
+C:\xampp\htdocs\dashboard\l9-10-geldautomaat-in-c-simonno9\geldautomaat\geldautomaat admin\bin\Debug\geldautomaat admin.exe
+C:\xampp\htdocs\dashboard\l9-10-geldautomaat-in-c-simonno9\geldautomaat\geldautomaat admin\bin\Debug\geldautomaat admin.pdb
+C:\xampp\htdocs\dashboard\l9-10-geldautomaat-in-c-simonno9\geldautomaat\geldautomaat admin\bin\Debug\BCrypt.Net-Next.dll
+C:\xampp\htdocs\dashboard\l9-10-geldautomaat-in-c-simonno9\geldautomaat\geldautomaat admin\bin\Debug\geldautomaat.exe
+C:\xampp\htdocs\dashboard\l9-10-geldautomaat-in-c-simonno9\geldautomaat\geldautomaat admin\bin\Debug\System.Buffers.dll
+C:\xampp\htdocs\dashboard\l9-10-geldautomaat-in-c-simonno9\geldautomaat\geldautomaat admin\bin\Debug\System.Memory.dll
+C:\xampp\htdocs\dashboard\l9-10-geldautomaat-in-c-simonno9\geldautomaat\geldautomaat admin\bin\Debug\System.Numerics.Vectors.dll
+C:\xampp\htdocs\dashboard\l9-10-geldautomaat-in-c-simonno9\geldautomaat\geldautomaat admin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\xampp\htdocs\dashboard\l9-10-geldautomaat-in-c-simonno9\geldautomaat\geldautomaat admin\bin\Debug\MySqlConnector.dll
+C:\xampp\htdocs\dashboard\l9-10-geldautomaat-in-c-simonno9\geldautomaat\geldautomaat admin\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\xampp\htdocs\dashboard\l9-10-geldautomaat-in-c-simonno9\geldautomaat\geldautomaat admin\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\xampp\htdocs\dashboard\l9-10-geldautomaat-in-c-simonno9\geldautomaat\geldautomaat admin\bin\Debug\geldautomaat.pdb
+C:\xampp\htdocs\dashboard\l9-10-geldautomaat-in-c-simonno9\geldautomaat\geldautomaat admin\bin\Debug\geldautomaat.exe.config
+C:\xampp\htdocs\dashboard\l9-10-geldautomaat-in-c-simonno9\geldautomaat\geldautomaat admin\bin\Debug\BCrypt.Net-Next.xml
+C:\xampp\htdocs\dashboard\l9-10-geldautomaat-in-c-simonno9\geldautomaat\geldautomaat admin\bin\Debug\System.Buffers.xml
+C:\xampp\htdocs\dashboard\l9-10-geldautomaat-in-c-simonno9\geldautomaat\geldautomaat admin\bin\Debug\System.Memory.xml
+C:\xampp\htdocs\dashboard\l9-10-geldautomaat-in-c-simonno9\geldautomaat\geldautomaat admin\bin\Debug\System.Numerics.Vectors.xml
+C:\xampp\htdocs\dashboard\l9-10-geldautomaat-in-c-simonno9\geldautomaat\geldautomaat admin\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\xampp\htdocs\dashboard\l9-10-geldautomaat-in-c-simonno9\geldautomaat\geldautomaat admin\bin\Debug\MySqlConnector.xml
+C:\xampp\htdocs\dashboard\l9-10-geldautomaat-in-c-simonno9\geldautomaat\geldautomaat admin\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\xampp\htdocs\dashboard\l9-10-geldautomaat-in-c-simonno9\geldautomaat\geldautomaat admin\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\xampp\htdocs\dashboard\l9-10-geldautomaat-in-c-simonno9\geldautomaat\geldautomaat admin\obj\Debug\geldautomaat admin.csproj.AssemblyReference.cache
+C:\xampp\htdocs\dashboard\l9-10-geldautomaat-in-c-simonno9\geldautomaat\geldautomaat admin\obj\Debug\geldautomaat admin.csproj.SuggestedBindingRedirects.cache
+C:\xampp\htdocs\dashboard\l9-10-geldautomaat-in-c-simonno9\geldautomaat\geldautomaat admin\obj\Debug\MainWindow.g.cs
+C:\xampp\htdocs\dashboard\l9-10-geldautomaat-in-c-simonno9\geldautomaat\geldautomaat admin\obj\Debug\windows\CreateRekening.g.cs
+C:\xampp\htdocs\dashboard\l9-10-geldautomaat-in-c-simonno9\geldautomaat\geldautomaat admin\obj\Debug\windows\CreateUser.g.cs
+C:\xampp\htdocs\dashboard\l9-10-geldautomaat-in-c-simonno9\geldautomaat\geldautomaat admin\obj\Debug\windows\rkWindow.g.cs
+C:\xampp\htdocs\dashboard\l9-10-geldautomaat-in-c-simonno9\geldautomaat\geldautomaat admin\obj\Debug\windows\UserWindow.g.cs
+C:\xampp\htdocs\dashboard\l9-10-geldautomaat-in-c-simonno9\geldautomaat\geldautomaat admin\obj\Debug\App.g.cs
+C:\xampp\htdocs\dashboard\l9-10-geldautomaat-in-c-simonno9\geldautomaat\geldautomaat admin\obj\Debug\geldautomaat admin_MarkupCompile.cache
+C:\xampp\htdocs\dashboard\l9-10-geldautomaat-in-c-simonno9\geldautomaat\geldautomaat admin\obj\Debug\geldautomaat admin_MarkupCompile.lref
+C:\xampp\htdocs\dashboard\l9-10-geldautomaat-in-c-simonno9\geldautomaat\geldautomaat admin\obj\Debug\MainWindow.baml
+C:\xampp\htdocs\dashboard\l9-10-geldautomaat-in-c-simonno9\geldautomaat\geldautomaat admin\obj\Debug\windows\CreateRekening.baml
+C:\xampp\htdocs\dashboard\l9-10-geldautomaat-in-c-simonno9\geldautomaat\geldautomaat admin\obj\Debug\windows\CreateUser.baml
+C:\xampp\htdocs\dashboard\l9-10-geldautomaat-in-c-simonno9\geldautomaat\geldautomaat admin\obj\Debug\windows\rkWindow.baml
+C:\xampp\htdocs\dashboard\l9-10-geldautomaat-in-c-simonno9\geldautomaat\geldautomaat admin\obj\Debug\windows\UserWindow.baml
+C:\xampp\htdocs\dashboard\l9-10-geldautomaat-in-c-simonno9\geldautomaat\geldautomaat admin\obj\Debug\geldautomaat admin.g.resources
+C:\xampp\htdocs\dashboard\l9-10-geldautomaat-in-c-simonno9\geldautomaat\geldautomaat admin\obj\Debug\geldautomaat_admin.Properties.Resources.resources
+C:\xampp\htdocs\dashboard\l9-10-geldautomaat-in-c-simonno9\geldautomaat\geldautomaat admin\obj\Debug\geldautomaat admin.csproj.GenerateResource.cache
+C:\xampp\htdocs\dashboard\l9-10-geldautomaat-in-c-simonno9\geldautomaat\geldautomaat admin\obj\Debug\geldautomaat admin.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\dashboard\l9-10-geldautomaat-in-c-simonno9\geldautomaat\geldautomaat admin\obj\Debug\geldautomaat admin.csproj.CopyComplete
+C:\xampp\htdocs\dashboard\l9-10-geldautomaat-in-c-simonno9\geldautomaat\geldautomaat admin\obj\Debug\geldautomaat admin.exe
+C:\xampp\htdocs\dashboard\l9-10-geldautomaat-in-c-simonno9\geldautomaat\geldautomaat admin\obj\Debug\geldautomaat admin.pdb
